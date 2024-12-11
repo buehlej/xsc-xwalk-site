@@ -31,7 +31,10 @@ main .hero .hero-body {
     font-size: 36px
 }
 
-
+main .hero h1 {
+    font-size: 75px;
+    color: blue;
+}
 main .hero picture {
     /* position: absolute;
     top: 0;
